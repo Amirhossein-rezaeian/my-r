@@ -1,4 +1,4 @@
-# UserLAnd-Assets-Debian
+# Amirhossein Rezaeian
 A repository for holding Debian specific assets for UserLAnd
 
 After cloning this repo, you simply do the following...
